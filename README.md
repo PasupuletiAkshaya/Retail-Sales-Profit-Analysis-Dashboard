@@ -1,4 +1,4 @@
-# Retail Sales & Profit Analysis Dashboard
+# RetailIQ Sales & Profit Analysis
 
 ## Project Overview
 
