@@ -65,13 +65,15 @@ Monthly sales remained stable with periodic seasonal peaks, indicating consisten
 
 ## Project Files
 
-- RetailAnalysis.xlsx
-- Dashboard.pdf
+- Retail_Analysis.xlsx
+- Dashboard.png
 - Project_Summary.docx
+- Cleaned_Data.xlsx
+- Raw_Data.xlsx
 
 ---
 
 ## Author
 
-Akshaya
+Akshaya pasupuleti
 
